@@ -4,7 +4,7 @@
 
 I am a Interactive Arts and Science Student at Brock University. Welcome to my Acedemic Blog!
 
-! [](imagez/kitten.jpg)
+! [](imagez/download.jpg)
 
 ## Blog Post
 
