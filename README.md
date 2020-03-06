@@ -9,4 +9,4 @@ I am a Interactive Arts and Science Student at Brock University. Welcome to my A
 
 ## Blog Post
 
-Click Continue reading if you would like to further examine my arguments..... [continue_reading](blog.me/text)
+Click Continue reading if you would like to further examine my arguments..... [continue_reading](blog.me/Text)
